@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<data>
+  <tb_dataxml>
+    <id>1</id>
+    <nama>AKW</nama>
+    <umur>2</umur>
+    <warna>Megan Lampik</warna>
+    <trah>Kenwood</trah>
+  </tb_dataxml>
+  <tb_dataxml>
+    <id>2</id>
+    <nama>Jimbo</nama>
+    <umur>1</umur>
+    <warna>Tritis Lampik</warna>
+    <trah>Kenwood</trah>
+  </tb_dataxml>
+  <tb_dataxml>
+    <id>3</id>
+    <nama>Naka</nama>
+    <umur>1</umur>
+    <warna>Megan Tritis</warna>
+    <trah>Kenwood</trah>
+  </tb_dataxml>
+  <tb_dataxml>
+    <id>123</id>
+    <nama>Adminnnnnn</nama>
+    <umur>2</umur>
+    <warna>Bl</warna>
+    <trah>dwdwdwdwd</trah>
+  </tb_dataxml>
+</data>
